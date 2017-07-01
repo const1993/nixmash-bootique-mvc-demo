@@ -1,4 +1,4 @@
-Simple [Bootique](http://bootique.io) app demonstrating the Bootique MVC Model with Jetty, Jersey and Mustache.
+Simple [Bootique](http://bootique.io) app demonstrating the Bootique MVC Module with Jetty, Jersey and Mustache.
 
 Simply build the app in your IDE or use Maven
 
