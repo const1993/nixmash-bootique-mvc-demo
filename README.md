@@ -11,7 +11,7 @@ Enter the following to launch the app in Maven.
 /project/root/$ java -jar target/bootique-mvc-demo-1.0-SNAPSHOT.jar 
 ```
 
-The app is configured with arguments `"--server", "--config=classpath:bootique.yml".`  After launching the app in your IDE or with Maven, go to
+After launching the app in your IDE or with Maven, go to
 
 ```bash
 http://localhost:9000/
