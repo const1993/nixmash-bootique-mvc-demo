@@ -18,7 +18,7 @@ import javax.ws.rs.core.Response.Status;
 
 import static org.junit.Assert.assertEquals;
 
-public class MustacheTests {
+public class MustacheTest {
 
     @ClassRule
     public static JettyTestFactory TEST_SERVER = new JettyTestFactory();
